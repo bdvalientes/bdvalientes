@@ -16,6 +16,7 @@ Backend Developer @platzi #Spring Boot #Java #NodeJS 😎🚀 - 🇨🇴
 
 <hr>
 <h4>Lenguajes</h4>
+<a href=""><img src="https://img.shields.io/badge/JAVA-ffffff?style=for-the-badge&logo=Java&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -89,11 +90,17 @@ Backend Developer @platzi #Spring Boot #Java #NodeJS 😎🚀 - 🇨🇴
 <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr>
-<h4>Lenguajes más usados</h4>
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdvalientes" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<h4>Estadisticas de Codificacion</h4>
+<p align = 'center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=bdvalientes&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=bdvalientes&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
+</p>
 
 <hr>
-<h4>Estadisticas</h4>
-<a href=""><img src="https://github-profile-trophy.vercel.app/?username=bdvalientes" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<h4>Estadisticas de Racha</h4>
+<p align = 'center'>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=bdvalientes&theme=gotham&hide_border=true'>
+</p>
+
 
 
